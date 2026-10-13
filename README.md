@@ -8,4 +8,6 @@ Grupa: Grupa 2A
 
 
 
+## Hardware
 
+Arduino Uno R3, senzor de temperatură TMP36
