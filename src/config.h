@@ -1,0 +1,1 @@
+#define LED_PIN 13 // LED de stare
